@@ -4,4 +4,6 @@ This is an example repo for the D3 interim 2020.
 
 This is a really great course!!!
 
-^_^
+^\_^
+
+Can't wait to start my project.
